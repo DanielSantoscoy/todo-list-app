@@ -58,8 +58,8 @@ button{
 
 ul li{
     list-style: none;
-    font-size: 19px;
-    padding: 12px 8px 12px 50px;
+    font-size: 17px;
+    padding: 15px 8px 12px 1px;
     user-select: none;
     cursor: pointer;
     position: relative;
@@ -75,7 +75,7 @@ ul li::before{
     background-size: cover;
     background-position: center;
     top: 12px; 
-    left: 8px;
+    left: -35px;
 }
 
 ul li.checked{
